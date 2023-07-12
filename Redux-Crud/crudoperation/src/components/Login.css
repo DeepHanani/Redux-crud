@@ -1,0 +1,49 @@
+.main-Contener {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: url("https://www.webex.com/content/dam/wbx/us/images/virtual-backgrounds/Virtual_Background-Dark.jpg?sw77s92ar6");
+    background-repeat:no-repeat ;
+    background-size: cover;
+    
+  }
+
+  .childContener{
+    width: 400px;
+    background-color: rgb(137, 135, 135);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5px;
+    padding: 20px;
+  }
+
+  .login {
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin: 0px auto;
+    margin-bottom: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+
+  .filed {
+    margin: 7px;
+    padding: 11px 150px 11px 4px;
+    border-radius: 6px;
+    border: none;
+  }
+
+  .LoginBtn{
+    margin-left: 5px;
+    margin-top: 20px;
+    padding: 11px 135px;
+    border-radius: 5px;
+    background-color: rgb(4, 123, 10);
+    color: white;
+    border: none;
+    font-size: 15px;
+  }
+
+

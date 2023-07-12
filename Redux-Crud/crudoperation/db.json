@@ -1,0 +1,15 @@
+{
+  "Registration": [],
+  "comments": [
+    {
+      "name": "Deep hanani",
+      "email": "deephanani24@gmail.com",
+      "phone": "09824391440",
+      "password": "raj@1234",
+      "id": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

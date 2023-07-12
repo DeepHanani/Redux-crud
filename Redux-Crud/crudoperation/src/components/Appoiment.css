@@ -1,0 +1,35 @@
+.addBtn{
+    background-color: rgb(29, 29, 138);
+    padding: 9px 35px 9px 35px;
+    font-size: 16px;
+    color: white;
+    border-radius: 8px;
+    margin-bottom: 19px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.deletBtn{
+    background-color: rgb(200, 3, 3);
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.editBtn{
+    background-color: rgb(3, 137, 247);
+    color: white;
+    padding: 5px 10px 5px 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+
+}
+
+.main{
+    padding:18px 25px ;
+}
+
